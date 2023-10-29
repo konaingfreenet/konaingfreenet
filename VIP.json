@@ -1,6 +1,6 @@
 {
 //The version is for updates. If there is an update, the number must be changed to be greater than before.
-"Version":"1.4",
+"Version":"1.5",
 // Link to update server
 "Url":"https://github.com/konaingfreenet/konaingfreenet/raw/main/VIP.zip" ,
 "Changelog":"
@@ -10,9 +10,6 @@ Dtac.Nopro
 True.Nopro
 🇹🇭🇹🇭VIP.ေဈးႏႈန္းမ်ား👇
 🇹🇭🇹🇭VIP.တလ.၅၀ဘက္
-🇹🇭🇹🇭VIP.၂လ.၁၀၀ဘက္
-🇹🇭🇹🇭VIP.၃လ.၁၅၀ဘက္
-🇹🇭🇹🇭VIP.၄လ.၂၀၀ဘက္
 
 ",
  // don't mess below
